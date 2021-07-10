@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "661206608518",
+    "project_id": "finalnotificationapp-51fae",
+    "storage_bucket": "finalnotificationapp-51fae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661206608518:android:97f7e8eca57e89b3a13f07",
+        "android_client_info": {
+          "package_name": "com.example.notfication_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661206608518-u96rl86kc6md021fv3ifu49t2grgts5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXFMPW5la_X27HeFGxnt17rqZfzz1dX7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661206608518-u96rl86kc6md021fv3ifu49t2grgts5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
